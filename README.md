@@ -1,2 +1,2 @@
 # Spoj_solutions
-Code for classical problems on spoj mostyle cpp
+Code for classical problems on spoj mostyle cpp.
